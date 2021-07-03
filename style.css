@@ -15,3 +15,17 @@ h3{
     font-size: 20px;
     background-color: darkseagreen;
 }
+#ik{
+    color: cornflowerblue;
+    background-color: black;
+    font-size: 30px;
+    text-align: center;
+}
+p{
+    color: rgb(101, 179, 24);
+    background-color: rgb(245, 238, 210);
+}
+img{
+    align-items: center;
+    size: 50px;
+}
