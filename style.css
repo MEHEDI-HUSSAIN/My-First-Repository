@@ -26,6 +26,6 @@ p{
     background-color: rgb(245, 238, 210);
 }
 img{
-    align-items: center;
-    size: 50px;
+    align-content: center;
+    size: 30px;
 }
